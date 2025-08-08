@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/quickbite-food-delivery-3796/food_delivery_frontend/.dart_tool/flutter_build/83e3f226adaac9adb319ec70c90ea78c/native_assets.json: 

@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/quickbite-food-delivery-3796/food_delivery_frontend"
+}
